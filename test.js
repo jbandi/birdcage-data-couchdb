@@ -1,4 +1,5 @@
 import 'babel-polyfill';
+import 'isomorphic-fetch';
 import assert from 'assert';
 
 import {repo} from './lib/index';
